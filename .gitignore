@@ -1,0 +1,10 @@
+cache/
+physical_printer/
+shapes/
+sla_material/
+sla_print/
+vendor/
+PrusaSlicer.ini
+PrusaSlicer.ini.bak
+PrusaSlicerGcodeViewer.ini
+PrusaSlicerGcodeViewer.ini.bak
